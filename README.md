@@ -9,4 +9,4 @@ For the **SCHEMA**, please open the .sql file attached.
 For the **DATA ANALYSIS**, please open the .sql file attached.
 
 Also attached, is a Tableau Dashboard.
-**Link to the dashboard -**
+**Link to the dashboard - https://rb.gy/yxms7r**
