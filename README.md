@@ -10,3 +10,5 @@ For the **DATA ANALYSIS**, please open the .sql file attached.
 
 Also attached, is a Tableau Dashboard.
 **Link to the dashboard - https://rb.gy/yxms7r**
+
+![Plant Store DB Diagram](https://github.com/user-attachments/assets/6a6ce27d-5f8e-4b91-a85e-545b07bd7493)
